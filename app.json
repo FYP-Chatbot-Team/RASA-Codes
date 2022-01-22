@@ -1,0 +1,6 @@
+{
+  "description": "A barebones Rasa NLU server installation using Docker",
+  "name": "Rasa NLU Heroku template",
+  "repository": "https://github.com/FYP-Chatbot-Team/RASA-Codes.git",
+  "stack": "container"
+}
