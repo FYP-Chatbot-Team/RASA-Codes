@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app"
   ],
-  "SelectedNode": "\\credentials.yml",
+  "SelectedNode": "\\app\\credentials.yml",
   "PreviewInSolutionExplorer": false
 }
