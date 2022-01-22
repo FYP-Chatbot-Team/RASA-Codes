@@ -2,9 +2,8 @@ version: "2.0"
 
 stories:
 
-- story: happy path
+- story: greeting
   steps:
   - intent: greet
   - action: utter_greet
-  - intent: mood_great
-  - action: utter_happy
+
