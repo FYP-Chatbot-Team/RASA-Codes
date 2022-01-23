@@ -1,9 +1,0 @@
-{
-  "id": "fc68989c-b183-462e-9f0d-8ea27e78bace",
-  "name": "Courts_attendance_status",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

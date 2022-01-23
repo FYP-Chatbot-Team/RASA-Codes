@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\app",
-    "\\app\\data"
+    ""
   ],
-  "SelectedNode": "\\app\\data\\rules.yml",
+  "SelectedNode": "\\app",
   "PreviewInSolutionExplorer": false
 }

@@ -1,9 +1,0 @@
-{
-  "id": "ee64b0d6-6617-4a37-8d5d-fdc358c8c0b4",
-  "name": "Non-urgent_SFA_case",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

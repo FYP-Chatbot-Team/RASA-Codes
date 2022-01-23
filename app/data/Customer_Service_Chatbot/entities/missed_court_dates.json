@@ -1,9 +1,0 @@
-{
-  "id": "7b87ab8b-0919-43ce-b88d-72c2aa539aca",
-  "name": "missed_court_dates",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}
