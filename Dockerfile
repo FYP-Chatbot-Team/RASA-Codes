@@ -10,8 +10,4 @@ USER 1001
 
 RUN rasa train nlu
 
-ADD . /app/
-RUN chmod +x /app/start_services.sh
-CMD /app/start_services.sh
-
-#ENTRYPOINT ["/app/server.sh"]
+ENTRYPOINT ["/app/server.sh"]
