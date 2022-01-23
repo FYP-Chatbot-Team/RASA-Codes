@@ -6,3 +6,5 @@ then
 fi
 
 rasa run --enable-api --port $PORT
+
+rasa run actions
