@@ -1,0 +1,44 @@
+{
+  "id": "332a5b7a-2375-4a2b-9b9c-7ca228a64cd9",
+  "parentId": "985ea918-f77d-456e-83d1-00a271b0ec03",
+  "rootParentId": "985ea918-f77d-456e-83d1-00a271b0ec03",
+  "name": "Work_Instruction_For_SFA - How_to_stop_SFA_rejecting_my_cases?",
+  "auto": true,
+  "contexts": [
+    "Work_Instruction_For_SFA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "How_to_stop_SFA_rejecting_my_cases",
+      "affectedContexts": [
+        {
+          "name": "continue",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am so sorry . Server might be down. We are fixing it."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

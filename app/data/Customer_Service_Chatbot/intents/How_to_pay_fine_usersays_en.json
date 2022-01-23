@@ -1,0 +1,672 @@
+[
+  {
+    "id": "64931c8a-1109-495a-9f79-62c08583b27e",
+    "data": [
+      {
+        "text": "Methods",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " to pay for my fines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3fa86b2-d5aa-44b8-aa4c-405b55783528",
+    "data": [
+      {
+        "text": "Where do I pay my ",
+        "userDefined": false
+      },
+      {
+        "text": "fines",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " at?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0390b10-183c-4f67-87c1-c61fa4ba04f9",
+    "data": [
+      {
+        "text": "Where should I go to pay for my ",
+        "userDefined": false
+      },
+      {
+        "text": "fines",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7ac1d2c-0088-43c2-aa9e-380432679555",
+    "data": [
+      {
+        "text": "What are the modes available for ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " of fines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd6939de-ab9b-4557-9b5b-f7c00148c6b6",
+    "data": [
+      {
+        "text": "What should I do to pay my ",
+        "userDefined": false
+      },
+      {
+        "text": "fines",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7edb9150-b25b-418b-ab22-7a951c58150f",
+    "data": [
+      {
+        "text": "Ways to pay my ",
+        "userDefined": false
+      },
+      {
+        "text": "fines",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd21fb99-f88e-4083-8881-aa46c916f2b9",
+    "data": [
+      {
+        "text": "How to pay my ",
+        "userDefined": false
+      },
+      {
+        "text": "fines",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "786c1dd0-10a4-40ae-b006-4d5518a4dbb8",
+    "data": [
+      {
+        "text": "Types of ",
+        "userDefined": false
+      },
+      {
+        "text": "method",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " of fines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "623660da-9eec-4c40-8831-29c406fb19d6",
+    "data": [
+      {
+        "text": "Methods",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " available for fine ",
+        "userDefined": false
+      },
+      {
+        "text": "payments",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5db2d17-5e49-4e9f-8bac-8df66b283bab",
+    "data": [
+      {
+        "text": "Can use what ",
+        "userDefined": false
+      },
+      {
+        "text": "methods",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "fines",
+        "userDefined": true
+      },
+      {
+        "text": " ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db8b3c37-e968-4af8-8da5-12a12a35f550",
+    "data": [
+      {
+        "text": "Locations for ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "payments",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "329d2c54-01b7-4ddb-b101-8f152e1195a5",
+    "data": [
+      {
+        "text": "Places to go for ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "payments",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c565002-f0b8-4d61-9a2f-3dea8b23ead8",
+    "data": [
+      {
+        "text": "Where to go pay my ",
+        "userDefined": false
+      },
+      {
+        "text": "fines",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d261f110-b48d-4cf4-a889-a22e36daf11f",
+    "data": [
+      {
+        "text": "Have what ",
+        "userDefined": false
+      },
+      {
+        "text": "mode",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "payments",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "401dd5a1-1d73-4ac2-a426-09ad0288b365",
+    "data": [
+      {
+        "text": "Modes",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "payments",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2609b56-71c0-48a8-bdf3-10daea90228a",
+    "data": [
+      {
+        "text": "What type of ",
+        "userDefined": false
+      },
+      {
+        "text": "modes",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " are there for ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "payments",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4bac48e-b21d-439e-a0da-fed66b67b19b",
+    "data": [
+      {
+        "text": "I want to pay ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eaa9c3fe-a8c8-4e9f-95b1-918e6af73205",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15d1dfc3-b1ba-4d88-924c-6da701b29fad",
+    "data": [
+      {
+        "text": "How can I ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "fines",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42abae22-c71d-40b6-8e58-5079f92fea57",
+    "data": [
+      {
+        "text": "What are the different ",
+        "userDefined": false
+      },
+      {
+        "text": "methods",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "fines",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f886e5c9-abb1-43f1-8d93-a45e2cd4e898",
+    "data": [
+      {
+        "text": "Where can I ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "userDefined": false
+      },
+      {
+        "text": " for my ",
+        "userDefined": false
+      },
+      {
+        "text": "fines",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5318a63-c14f-4089-be8c-bd9091e88724",
+    "data": [
+      {
+        "text": "What are the different ",
+        "userDefined": false
+      },
+      {
+        "text": "modes",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "meta": "@how_to_pay_fines",
+        "alias": "how_to_pay_fines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

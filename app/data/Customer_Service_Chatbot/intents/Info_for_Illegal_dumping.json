@@ -1,0 +1,52 @@
+{
+  "id": "6b3dc0b8-ba68-402d-96a1-ad2ffd1861ab",
+  "name": "Info_for_Illegal_dumping",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "info_for_illegal_dumping",
+      "affectedContexts": [
+        {
+          "name": "continue",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f91a5667-3192-4edb-ad09-69e823cf2150",
+          "name": "Infos_for_illegal_dumping",
+          "required": true,
+          "dataType": "@Infos_for_illegal_dumping",
+          "value": "$Infos_for_illegal_dumping",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

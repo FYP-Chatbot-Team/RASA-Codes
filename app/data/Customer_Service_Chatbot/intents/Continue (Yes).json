@@ -1,0 +1,80 @@
+{
+  "id": "a83025a0-67e6-461e-866f-875be5966e28",
+  "name": "Continue (Yes)",
+  "auto": true,
+  "contexts": [
+    "continue"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "callback_data": "Enquiry on Fine Payment",
+                      "text": "Fine Payment"
+                    },
+                    {
+                      "text": "Illegal Dumping",
+                      "callback_data": "Illegal Dumping"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "Enquiry on the Process for LOR(Letter of Reminder)",
+                      "text": "Process for LOR(Letter of Reminder)"
+                    },
+                    {
+                      "callback_data": "Enquiry on the Process for LOA(Letter of Advice)",
+                      "text": "Process for LOA(Letter of Advice)"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Work Instructions for SFA",
+                      "callback_data": "Enquiry on work instructions for SFA"
+                    }
+                  ]
+                ]
+              },
+              "text": "I can help you with the following option 😊 : "
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

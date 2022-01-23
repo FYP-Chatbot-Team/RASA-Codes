@@ -1,0 +1,55 @@
+{
+  "id": "5267986b-2324-4ed2-9c47-b91f45aeb966",
+  "name": "How_To_Appeal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "how_to_appeal",
+      "affectedContexts": [
+        {
+          "name": "continue",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "274e4c1e-3aff-4f69-b049-d78524b09cb3",
+          "name": "how_to_appeals",
+          "required": true,
+          "dataType": "@how_to_appeals",
+          "value": "$how_to_appeals",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am so sorry . Server might be down. We are fixing it."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

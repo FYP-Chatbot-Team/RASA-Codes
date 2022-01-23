@@ -1,0 +1,9 @@
+{
+  "id": "347e0170-d33d-4656-8d34-7d1dac07c728",
+  "name": "Infos_for_illegal_dumping",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

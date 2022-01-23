@@ -1,0 +1,590 @@
+[
+  {
+    "id": "21807fdc-bbe3-4e68-a4b5-71207867384c",
+    "data": [
+      {
+        "text": "Team in charge of ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c518429c-9adf-4419-94d2-3e99019a3f04",
+    "data": [
+      {
+        "text": "Which team is related to ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7add713-5267-40d0-8a85-531e3d500e9b",
+    "data": [
+      {
+        "text": "Which team tasked on ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0032677-b93b-4b50-ad3f-9bcab65bd44f",
+    "data": [
+      {
+        "text": "What team doing ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80f3c351-5658-4cdd-b4af-21a57fa8e1d8",
+    "data": [
+      {
+        "text": "Who doing ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24b9a4de-1ed0-43b6-8228-cc10deec70b7",
+    "data": [
+      {
+        "text": "Which team is controlling ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f88c1c74-1fb3-4485-8a8d-ab3e32daab98",
+    "data": [
+      {
+        "text": "Illegal dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " is which team\u0027s responsibility?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28c2ebee-f458-43a6-af5f-273fc4d935d1",
+    "data": [
+      {
+        "text": "Can you tell me which team is for ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6d3e3ba-0612-4c22-b0b6-4966b6821653",
+    "data": [
+      {
+        "text": "Which team is working on ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fba19d0-7904-4a2f-95ee-58a1059155d3",
+    "data": [
+      {
+        "text": "Which team is in charge of ",
+        "userDefined": false
+      },
+      {
+        "text": "Illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a50f277b-e28d-4588-b1a5-1b733a87e8b1",
+    "data": [
+      {
+        "text": "Illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " will be addressed by which team?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02275ff5-7bf3-4e02-8361-9ccf346310b3",
+    "data": [
+      {
+        "text": "What team will be associated to ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14f2cc36-a39a-4a00-a218-bbe0ed83fe6d",
+    "data": [
+      {
+        "text": "Illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " under who ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7af46642-8c72-4305-b4f8-9d8b42b88940",
+    "data": [
+      {
+        "text": "Who is taking care of ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca37f724-e40f-4b23-bf87-e4ab89881193",
+    "data": [
+      {
+        "text": "Which team is assigned to ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32798545-36b9-4b19-90f9-3606c3ecd9ab",
+    "data": [
+      {
+        "text": "Which team will provide a response for ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40557de6-7a1e-42a2-b207-1d7cabd3bdaf",
+    "data": [
+      {
+        "text": "Who gives feedback on ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c10a4b5-37ea-4e94-a252-397a4ef3416f",
+    "data": [
+      {
+        "text": "Who will be handling ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbd03570-27b3-4b32-bde2-269333dd06b0",
+    "data": [
+      {
+        "text": "What team will be responsible for ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3babd9bf-a8fb-41c9-bcb5-a5d184081e80",
+    "data": [
+      {
+        "text": "Which team will front feedback on ",
+        "userDefined": false
+      },
+      {
+        "text": "illegal",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dumping",
+        "meta": "@in_charge_of_illegal_dumping",
+        "alias": "in_charge_of_illegal_dumping",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

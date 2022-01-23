@@ -1,0 +1,9 @@
+{
+  "id": "2cbc0f79-e4e0-41ab-83a4-a60b48b2fb33",
+  "name": "dumping_vs_waste",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

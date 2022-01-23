@@ -1,0 +1,44 @@
+{
+  "id": "ac993400-ca56-4768-a1f3-61872060e541",
+  "parentId": "7ee041fa-f917-48ff-ae05-d66eda843faa",
+  "rootParentId": "7ee041fa-f917-48ff-ae05-d66eda843faa",
+  "name": "Illegal_Dumping - Info_For_Illegal_Dumping",
+  "auto": true,
+  "contexts": [
+    "Illegal_Dumping-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "info_for_illegal_dumping",
+      "affectedContexts": [
+        {
+          "name": "continue",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am so sorry . Server might be down. We are fixing it."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,497 @@
+[
+  {
+    "id": "e33021bf-6a92-4c8f-a036-e38936e5a1c4",
+    "data": [
+      {
+        "text": "I seem to have ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " my court date, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50c2ae63-7df3-4242-8bf4-e4a074861c21",
+    "data": [
+      {
+        "text": "If I ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " my court date how ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df932e8f-9221-45a4-9d34-bbd0c29046c3",
+    "data": [
+      {
+        "text": "What to do if I ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " my court date ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01a03b3d-d2ed-4f90-a336-d24e0e69f00a",
+    "data": [
+      {
+        "text": "What should I inform the customers that seem to have ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " their court date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd647f60-f8aa-479c-9ede-948c202562ea",
+    "data": [
+      {
+        "text": "How do I proceed if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " my court date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e12302ea-7afd-4eeb-a609-ae0a16c037e4",
+    "data": [
+      {
+        "text": "Miss",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " your court date ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43314efc-7655-451c-bba4-133474fdcd9b",
+    "data": [
+      {
+        "text": "Will I be arrested for the ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " court date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82e22767-f6c4-4cb6-825f-dbcd3393e50a",
+    "data": [
+      {
+        "text": "What time should I attend court after ",
+        "userDefined": false
+      },
+      {
+        "text": "missing",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " my court date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b1c3dde-3333-42f3-b19c-586b67545433",
+    "data": [
+      {
+        "text": "Will I get a replacement ",
+        "userDefined": false
+      },
+      {
+        "text": "court",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83c7bb8f-3ea9-4385-9848-10db9a30c43f",
+    "data": [
+      {
+        "text": "How do I get a new ",
+        "userDefined": false
+      },
+      {
+        "text": "court",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cb3dd5b-d155-441a-84fb-7cc849696cac",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " my court date so what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f94750aa-7d8c-4d4e-81a8-7be9ee5026e4",
+    "data": [
+      {
+        "text": "What do I say to customers that ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " their court date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c777bb9b-16fc-4b04-a098-9ae0c1a820b6",
+    "data": [
+      {
+        "text": "What should be known to customers that ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " their court date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7389b6f3-4762-4646-94c8-081d3dac3266",
+    "data": [
+      {
+        "text": "What happens to customers that ",
+        "userDefined": false
+      },
+      {
+        "text": "miss",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " court date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2400d5f7-7808-4a2f-88c6-85c87db1da3a",
+    "data": [
+      {
+        "text": "Can I get a new court date since I ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " my court date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd2b06a1-56ef-4cf5-a9b8-14e351ca5504",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " my court date, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeeb503e-72d2-49db-96b9-4d4922113832",
+    "data": [
+      {
+        "text": "What do I do when I ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " the court date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5df6cc5-27eb-43a8-8489-4ccc1aa94f3b",
+    "data": [
+      {
+        "text": "Missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " court date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "128a1d14-bb8e-44aa-8eda-3fb9185cfb3d",
+    "data": [
+      {
+        "text": "Customer ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " court date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd952413-4bc5-4abf-a0ae-6214554d942d",
+    "data": [
+      {
+        "text": "What to tell customer who ",
+        "userDefined": false
+      },
+      {
+        "text": "miss",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " court date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a287233a-c83c-40a6-994b-e1df2880901a",
+    "data": [
+      {
+        "text": "What would you advise a customer who ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@missed_court_dates",
+        "alias": "missed_court_dates",
+        "userDefined": true
+      },
+      {
+        "text": " his court date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

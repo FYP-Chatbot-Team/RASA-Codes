@@ -1,0 +1,9 @@
+{
+  "id": "843c89dc-a40e-4b9f-bf65-ecb3be45c64e",
+  "name": "SFA_is_in_charge_of",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

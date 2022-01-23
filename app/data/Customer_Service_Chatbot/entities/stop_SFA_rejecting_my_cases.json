@@ -1,0 +1,9 @@
+{
+  "id": "3b12d504-e21b-47cc-9afc-e9c8da5b6116",
+  "name": "stop_SFA_rejecting_my_cases",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

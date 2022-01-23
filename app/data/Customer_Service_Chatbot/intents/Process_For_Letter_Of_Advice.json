@@ -1,0 +1,139 @@
+{
+  "id": "435bea43-f14d-4968-b3ef-1173d060554b",
+  "name": "Process_For_Letter_Of_Advice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Process_For_Letter_Of_Advice-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "line",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about the process for letter of advice? Choose one of the option below:                                                                                              \n --\u003e What to do for non-compoundable 26N LOA                                                                                 \n --\u003e What to bring for WOA execution?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about the process for letter of advice? Choose one of the option below:                                                                                              \n --\u003e What to do for non-compoundable 26N LOA                                                                                 \n --\u003e What to bring for WOA execution?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about Process For Letter of Advice ? Choose one of the option below:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "Letter of Advice",
+          "buttons": [
+            {
+              "text": "What to do for non-compoundable 26N LOA"
+            },
+            {
+              "text": "What to bring for WOA execution?"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "callback_data": "What to do for non-compoundable 26N LOA?",
+                      "text": "What to do for non-compoundable 26N LOA?"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "What to bring for WOA execution?",
+                      "callback_data": "What to bring for WOA execution?"
+                    }
+                  ]
+                ]
+              },
+              "text": "What do you want to know about Process For Advice ? Choose one of the option below"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "slack": true,
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

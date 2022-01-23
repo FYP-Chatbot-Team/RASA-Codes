@@ -1,0 +1,850 @@
+[
+  {
+    "id": "4ba2c318-0172-4118-a07d-d42f21910ca9",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " apply to an ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c46db836-786b-4944-9622-6c9670356ab0",
+    "data": [
+      {
+        "text": "Is an ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61c160b8-daf7-4a58-8381-754912508ea9",
+    "data": [
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " or not ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59cf623b-d866-4e89-abd6-d06340f6ee12",
+    "data": [
+      {
+        "text": "An ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70664c61-6855-464d-8142-285089f818dc",
+    "data": [
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b007e2c-bbe1-4082-a5f0-fc9a7aca02a9",
+    "data": [
+      {
+        "text": "Need do what for ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47f58590-67b3-49f6-8718-7bb356d9f5c5",
+    "data": [
+      {
+        "text": "Have to do what ah for a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0913eb97-a5cf-475e-8f68-14c9c784f24f",
+    "data": [
+      {
+        "text": "What am I supposed to do with a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "637a3a78-701a-4d0e-9f3c-8d5a68e3b75e",
+    "data": [
+      {
+        "text": "I got a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": ", now what?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58fb2d91-2c6c-4d28-82d7-8732df7662be",
+    "data": [
+      {
+        "text": "What to do with a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "25N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb1200f3-3de4-4c01-bec0-e38bfae423d6",
+    "data": [
+      {
+        "text": "I have received a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": ", what should I do now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1abdb843-b331-4d35-b5ac-23f57169b12f",
+    "data": [
+      {
+        "text": "What must I do if I received a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6712a7e1-7b61-4f50-a8ed-acda03081f2c",
+    "data": [
+      {
+        "text": "What should be done upon receiving a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af8c461d-e9cf-435c-bda7-46b1bef87a38",
+    "data": [
+      {
+        "text": "What do I do if I received a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1825ea6a-23f2-4073-ad44-d7f34a39f38b",
+    "data": [
+      {
+        "text": "What to do for ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b95cc86-3bcf-48af-808d-b0326e1709a2",
+    "data": [
+      {
+        "text": "What should I tell customers whom received a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " fine for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67decca9-60d2-4b67-9c51-e40084f4d2f1",
+    "data": [
+      {
+        "text": "What should be known for callers that received a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " fine ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdb4f714-b068-45f4-bf4e-9da478285951",
+    "data": [
+      {
+        "text": "What should I say to a customer that has gotten a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " fine for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32ff93a4-d2da-42fa-b51b-83e46f55c49c",
+    "data": [
+      {
+        "text": "What should I inform to the caller if they received an ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " regarding to a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " fine for Court ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d422baf-faf0-4631-b655-946704f6e486",
+    "data": [
+      {
+        "text": "What should I advise the caller if he received an ",
+        "userDefined": false
+      },
+      {
+        "text": "LOR",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " pertaining to a ",
+        "userDefined": false
+      },
+      {
+        "text": "compoundable",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      },
+      {
+        "text": " fine for Court ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_compoundable_26N_LOR",
+        "alias": "for_compoundable_26N_LOR",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

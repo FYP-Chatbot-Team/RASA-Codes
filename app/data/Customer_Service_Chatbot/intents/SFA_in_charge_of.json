@@ -1,0 +1,52 @@
+{
+  "id": "28f52203-c956-4771-ab67-78f3e38d25a2",
+  "name": "SFA_in_charge_of",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SFA_in_charge_of",
+      "affectedContexts": [
+        {
+          "name": "continue",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0effa678-08d4-4458-934c-29617417fcc2",
+          "name": "SFA_is_in_charge_of",
+          "required": true,
+          "dataType": "@SFA_is_in_charge_of",
+          "value": "$SFA_is_in_charge_of",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

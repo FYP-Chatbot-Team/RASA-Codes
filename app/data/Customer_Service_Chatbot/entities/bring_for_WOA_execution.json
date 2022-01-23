@@ -1,0 +1,9 @@
+{
+  "id": "15e54869-748c-41aa-92ca-06932781eec7",
+  "name": "bring_for_WOA_execution",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

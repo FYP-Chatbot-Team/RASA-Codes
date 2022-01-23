@@ -1,0 +1,169 @@
+{
+  "id": "8e9042ae-067b-465d-9050-33d69d9cbc50",
+  "name": "Fine_Payment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fine_Payment-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "line",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about fine payment ? Choose one of the option below:                                                                                              \n --\u003e How to pay fine?                                                                                  \n --\u003e How to appeal?                                                                                   \n --\u003e Miss your court date?                                                                       \n--\u003e Court attendance required after fine payment?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about fine payment ? Choose one of the option below:                                                                                              \n --\u003e How to pay fine?                                                                                  \n --\u003e How to appeal?                                                                                   \n --\u003e Miss your court date?                                                                       \n--\u003e Court attendance required after fine payment?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "text": "How to pay fine?",
+                      "callback_data": "How to pay fine"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "How to appeal",
+                      "text": "How to appeal?"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Miss your court date?",
+                      "callback_data": "Miss your court date"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "Court attendance required after fine payment",
+                      "text": "Court attendance required after fine payment?"
+                    }
+                  ]
+                ]
+              },
+              "text": "What do you want to know about fine payment ? Choose one of the option below:"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about fine payment ? Choose one of the option below:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "Fine Payment",
+          "buttons": [
+            {
+              "text": "How to pay fine?"
+            },
+            {
+              "text": "How to appeal?"
+            },
+            {
+              "text": "Miss your court date?"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "Fine Payment",
+          "buttons": [
+            {
+              "text": "Court attendance required after payment?"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "slack": true,
+        "telegram": true,
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

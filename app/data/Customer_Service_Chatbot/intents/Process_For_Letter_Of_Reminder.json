@@ -1,0 +1,118 @@
+{
+  "id": "27ed677f-db83-4a8c-a6a6-1bcd5a7039ee",
+  "name": "Process_For_Letter_Of_Reminder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Process_For_Letter_Of_Reminder-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about the process for letter of advice? Choose one of the option below:                                                                                              \n --\u003e Advice for a compoundable fine for Court 26N                                                                                \n --\u003e Need go to court for settled C14 fine?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about Process For Letter of Reminder ? Choose one of the option below:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "Letter of Reminder (LOR)",
+          "buttons": [
+            {
+              "text": "Advice for a compoundable fine for Court 26N"
+            },
+            {
+              "text": "Need go to court for settled C14 fine?"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "text": "Advice for a compoundable fine for Court 26N",
+                      "callback_data": "Advice for a compoundable fine for Court 26N"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "Need go to court for settled C14 fine?",
+                      "text": "Need go to court for settled C14 fine?"
+                    }
+                  ]
+                ]
+              },
+              "text": "What do you want to know about Process For Letter of Reminder ? Choose one of the option below: "
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

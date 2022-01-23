@@ -1,0 +1,694 @@
+[
+  {
+    "id": "3b899c87-ec42-438c-9b9d-5914678cfebd",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "non-compoundable",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " apply to an ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93b97676-bdbf-4f50-b3a9-bacdf09e6dca",
+    "data": [
+      {
+        "text": "Is an ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "non-compoundable",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ba4d209-1185-48cf-80b0-96c97b3e7424",
+    "data": [
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "non-compoundable",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " or not ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a74cf98e-daaa-4acc-8d3e-5a2f22d7730b",
+    "data": [
+      {
+        "text": "An ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "non-compoundable",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d976b551-bd34-48b1-9fdf-01e7b2d78c27",
+    "data": [
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " non-compoundable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f141f16c-7110-46ac-b11c-e192cfedd9bb",
+    "data": [
+      {
+        "text": "Need do what for non-compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43808851-a45b-444c-8588-0a2884ec4c7b",
+    "data": [
+      {
+        "text": "Have to do what ah for a non-compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca4b3f01-8f95-47bc-b6d7-dede7f57b735",
+    "data": [
+      {
+        "text": "What am I supposed to do with a non-compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00311a89-f6fd-47b8-95bc-383616884408",
+    "data": [
+      {
+        "text": "I got a non-compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": ", now what?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fba5aab-4165-4aa4-82d1-956788de9bdb",
+    "data": [
+      {
+        "text": "What to do with a non-compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "25N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c784818-697a-4400-8189-428e3927217e",
+    "data": [
+      {
+        "text": "I have received a non-compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": ", what should I do now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b4ba8af-71fe-4718-8d1b-61008db85bb3",
+    "data": [
+      {
+        "text": "What must I do if I received a non-compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ff30669-a52f-488c-9c7d-7ab8d158be4c",
+    "data": [
+      {
+        "text": "What should be done upon receiving a non-compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5964b4b-acd7-4647-b295-f9260d1019db",
+    "data": [
+      {
+        "text": "What do I do if I received a non-compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72293fcf-8a12-4866-bd94-53866566e596",
+    "data": [
+      {
+        "text": "What to do for non-compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91c7f5a5-a7e9-4ac3-8bfb-9a12c27653fb",
+    "data": [
+      {
+        "text": "What should I tell customers whom received a non-compoundable fine for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e19c2e1-9d37-4fc8-9180-12e48e55d3a9",
+    "data": [
+      {
+        "text": "What should be known for callers that received a non-compoundable fine ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bbc68c5-dc2a-4ef0-b537-278bc4b516f8",
+    "data": [
+      {
+        "text": "What should I say to a customer that has gotten a non-compoundable fine for ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "246e5bcd-c30d-4c94-a6e7-0319a380b0de",
+    "data": [
+      {
+        "text": "What should I inform to the caller if they received an ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " regarding to a non-compoundable fine for Court ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "debc61c6-e17e-4687-8d46-d1474e4b9ab1",
+    "data": [
+      {
+        "text": "What should I advise the caller if he received an ",
+        "userDefined": false
+      },
+      {
+        "text": "LOA",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": " pertaining to a non-compoundable fine for Court ",
+        "userDefined": false
+      },
+      {
+        "text": "26N",
+        "meta": "@for_non-compoundable_26N_LOA",
+        "alias": "for_non-compoundable_26N_LOA",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

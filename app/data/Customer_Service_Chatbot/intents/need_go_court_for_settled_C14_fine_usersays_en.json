@@ -1,0 +1,462 @@
+[
+  {
+    "id": "12287632-559c-4acd-9297-e114ef9bce0d",
+    "data": [
+      {
+        "text": "After I pay for ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fines do I still need to go to court?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b846153f-c74d-4db7-9b5d-9b5c97553693",
+    "data": [
+      {
+        "text": "Am I still required to attend court even though my ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fines are settled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "145407f6-4d23-4333-9c6a-b2c54da71076",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fines are already settled so must I still attend court?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1772fcad-25f8-4eca-b231-a3903be39d3a",
+    "data": [
+      {
+        "text": "I have already settled my ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine so do I still need to come to court?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78b6779c-3dab-42aa-9c08-08dd8336db77",
+    "data": [
+      {
+        "text": "After payment for ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine, is court attendance required?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8475544-4700-4800-920a-bc9822a01008",
+    "data": [
+      {
+        "text": "Is attendance still required even after the payment of ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85bbc268-9bff-4daa-ba6e-4362550ec3fb",
+    "data": [
+      {
+        "text": "Still need come court after paying for ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine ah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41cbe5ac-3dad-4370-81d6-3603a72a2215",
+    "data": [
+      {
+        "text": "Am I still obligated to attend court even after making ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine payments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f5ec04b-8492-4a8e-aa68-9e1696c67c06",
+    "data": [
+      {
+        "text": "After making my ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine payments, is it still mandatory for me to attend court?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1370956b-e02c-4158-8156-1f9ab16c924f",
+    "data": [
+      {
+        "text": "Must I still come to court after making my ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine payments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0791bcb-12c4-4548-a278-337edd1936ef",
+    "data": [
+      {
+        "text": "Court attendance still mandatory even after ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine payments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ef03a9d-868c-441d-928a-afa064a00726",
+    "data": [
+      {
+        "text": "Do I still have to attend court after ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine payment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d725db8-d7fd-4b76-b2a9-c0c8e02e265e",
+    "data": [
+      {
+        "text": "Am I still required to attend court after ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine payment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60ffeb0b-41c2-42fe-bcd4-d505fc53610a",
+    "data": [
+      {
+        "text": "Is it still a must for me to attend court after ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine payment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "763a6e4d-db56-4af3-9cb3-f0a24ecbdaf6",
+    "data": [
+      {
+        "text": "Must offender go to court for settled ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4576846a-db04-4edb-985f-fb04a2763851",
+    "data": [
+      {
+        "text": "Am I supposed to check with LD if they have made the payments for a compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9e81d6c-2e27-4e06-bb93-ccafadeee4b5",
+    "data": [
+      {
+        "text": "Should I check with LD if they have paid for the compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "220cc80f-d5fa-4c77-bc1d-27ecc5bb8e92",
+    "data": [
+      {
+        "text": "Need check with LD if caller already paid for compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "deea53c6-0a1e-4a9d-9089-a0d46cee1fa9",
+    "data": [
+      {
+        "text": "Must I check with LD if the caller has paid for their compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9a2d9a1-4954-4027-8c59-1c9658e5e5b9",
+    "data": [
+      {
+        "text": "Do I need to check with LD if caller has made payment for his compoundable ",
+        "userDefined": false
+      },
+      {
+        "text": "C14",
+        "meta": "@need_go_court_for_C14_fines",
+        "alias": "need_go_court_for_C14_fines",
+        "userDefined": true
+      },
+      {
+        "text": " fine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

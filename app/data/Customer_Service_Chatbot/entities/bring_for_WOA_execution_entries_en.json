@@ -1,0 +1,32 @@
+[
+  {
+    "value": "LOA",
+    "synonyms": [
+      "LOA"
+    ]
+  },
+  {
+    "value": "Bailor",
+    "synonyms": [
+      "Bailor"
+    ]
+  },
+  {
+    "value": "Execute",
+    "synonyms": [
+      "Execute"
+    ]
+  },
+  {
+    "value": "WOA",
+    "synonyms": [
+      "WOA"
+    ]
+  },
+  {
+    "value": "Non-Compoundable",
+    "synonyms": [
+      "Non-Compoundable"
+    ]
+  }
+]

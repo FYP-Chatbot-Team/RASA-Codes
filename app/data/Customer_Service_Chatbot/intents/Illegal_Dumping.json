@@ -1,0 +1,178 @@
+{
+  "id": "7ee041fa-f917-48ff-ae05-d66eda843faa",
+  "name": "Illegal_Dumping",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Illegal_Dumping-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "line",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about illegal dumping? Choose one of the option below:                                                                                              \n --\u003e Provide info for illegal dumping                                                                                  \n --\u003e Illegal dumping vs bulky waste                                                                                  \n --\u003e Which team is in charge of bulky waste?                                                                     \n--\u003e Which team is in charge of Illegal Dumping?                                         --\u003e Characteristics of Illegal Dumping"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about illegal dumping? Choose one of the option below:                                                                                              \n --\u003e Provide info for illegal dumping                                                                                  \n --\u003e Illegal dumping vs bulky waste                                                                                  \n --\u003e Which team is in charge of bulky waste?                                                                     \n--\u003e Which team is in charge of Illegal Dumping?                                         --\u003e Characteristics of Illegal Dumping"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about Illegal Dumping ? Choose one of the option below:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "Illegal Dumping",
+          "buttons": [
+            {
+              "text": "Provide info for illegal dumping"
+            },
+            {
+              "text": "Illegal dumping vs bulky waste"
+            },
+            {
+              "text": "Which team is in charge of bulky waste?"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "Illegal Dumping",
+          "buttons": [
+            {
+              "text": "Which team is in charge of Illegal Dumping?"
+            },
+            {
+              "text": "Characteristics of Illegal Dumping"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "text": "What do you want to know about Illegal Dumping ? Choose one of the option below",
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "callback_data": "Info for illegal dumping?",
+                      "text": "Provide info for illegal dumping?"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Illegal dumping vs bulky waste? ",
+                      "callback_data": "Illegal dumping vs bulky waste?"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "Team in charge of bulky waste??",
+                      "text": "Which team is in charge of bulky waste?"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Which team is in charge of Illegal Dumping?",
+                      "callback_data": "Which team is in charge of Illegal Dumping?"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "Characteristics of Illegal Dumping?",
+                      "text": "Characteristics of Illegal Dumping?"
+                    }
+                  ]
+                ]
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "slack": true,
+        "telegram": true,
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

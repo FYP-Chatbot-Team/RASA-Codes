@@ -1,0 +1,139 @@
+{
+  "id": "985ea918-f77d-456e-83d1-00a271b0ec03",
+  "name": "Work_Instruction_For_SFA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Work_Instruction_For_SFA-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about work instructions for SFA? Choose one of the option below:                                                                                              \n --\u003e How to handle non-urgent SFA cases?                                                                                \n --\u003e How to stop SFA from rejecting my cases?                                                                                 \n --\u003e What does SFA handle?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to know about work instructions for SFA? Choose one of the option below:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "Work instructions for SFA",
+          "buttons": [
+            {
+              "text": "How to handle non-urgent SFA cases?"
+            },
+            {
+              "text": "How to stop SFA from rejecting my cases?"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.nea.gov.sg/images/default-source/contact-us/myenv2_android_icon.png?MaxWidth\u003d200\u0026MaxHeight\u003d80\u0026ScaleUp\u003dfalse\u0026Quality\u003dHigh\u0026Method\u003dResizeFitToAreaArguments\u0026Signature\u003d476553CD9CC2AF2C244BA55E284839B5D95719B9",
+          "title": "Work instructions for SFA",
+          "buttons": [
+            {
+              "text": "What does SFA handle?"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "text": "What do you want to know about work Instructions for SFA Instructions? Choose one of the option below:",
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "text": "How to handle non-urgent SFA cases? ",
+                      "callback_data": "How to handle non-urgent SFA cases? "
+                    }
+                  ],
+                  [
+                    {
+                      "text": "How to stop SFA from rejecting my cases? ",
+                      "callback_data": "How to stop SFA from rejecting my cases?"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "What does SFA handle? ",
+                      "text": "What does SFA handle? "
+                    }
+                  ]
+                ]
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "slack": true,
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

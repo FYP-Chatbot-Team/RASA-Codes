@@ -1,0 +1,52 @@
+{
+  "id": "eea71877-d0f0-4d44-9746-60e9b153f7a6",
+  "name": "Team_in_charge_of_bulky_waste",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "team_in_charge_of_bulky_waste",
+      "affectedContexts": [
+        {
+          "name": "continue",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8ea948ee-c7d9-4ac6-a0ed-3db57750976d",
+          "name": "teams_in_charge_of_bulky_waste",
+          "required": true,
+          "dataType": "@teams_in_charge_of_bulky_waste",
+          "value": "$teams_in_charge_of_bulky_waste",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

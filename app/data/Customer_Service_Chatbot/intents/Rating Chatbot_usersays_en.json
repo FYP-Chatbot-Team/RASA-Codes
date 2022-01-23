@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d3087753-1ada-4ebd-9a42-727720f0b52a",
+    "data": [
+      {
+        "text": "I want to rate your chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fadae4d-2cbf-48aa-9081-2f6aecae8195",
+    "data": [
+      {
+        "text": "of course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3de31b06-5f7f-4096-998a-13ba7adba2f9",
+    "data": [
+      {
+        "text": "Yes please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b456fd6-33e2-4f4a-95f3-4b6e0fa28094",
+    "data": [
+      {
+        "text": "Yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

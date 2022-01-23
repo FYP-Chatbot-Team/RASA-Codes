@@ -1,0 +1,9 @@
+{
+  "id": "3fb63864-e280-482a-a6a6-9b3038763137",
+  "name": "Characteristic_illegal_dumping",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "08b9c3fe-c6b1-4cb2-92f0-72ce8e7f4c0c",
+  "name": "Team_in_charge_of_illegal_dumping",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "team_in_charge_of_illegal_dumping",
+      "affectedContexts": [
+        {
+          "name": "continue",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ba4e18c5-4802-4a9f-9a85-7baeaa003121",
+          "name": "in_charge_of_illegal_dumping",
+          "required": true,
+          "dataType": "@in_charge_of_illegal_dumping",
+          "value": "$in_charge_of_illegal_dumping",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

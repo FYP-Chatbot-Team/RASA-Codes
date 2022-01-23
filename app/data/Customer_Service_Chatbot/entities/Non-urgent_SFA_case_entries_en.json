@@ -1,0 +1,26 @@
+[
+  {
+    "value": "Non-Urgent",
+    "synonyms": [
+      "Non-Urgent"
+    ]
+  },
+  {
+    "value": "SFA",
+    "synonyms": [
+      "SFA"
+    ]
+  },
+  {
+    "value": "Food",
+    "synonyms": [
+      "Food"
+    ]
+  },
+  {
+    "value": "Food Agency",
+    "synonyms": [
+      "Food Agency"
+    ]
+  }
+]
