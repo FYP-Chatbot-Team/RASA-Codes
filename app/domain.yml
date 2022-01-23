@@ -5,6 +5,9 @@ intents:
   - goodbye
   - How_To_Pay_Fine
  
+actions:
+  - utter_greet
+  - utter_How_To_Pay_Fine
 
 responses:
   utter_greet:
