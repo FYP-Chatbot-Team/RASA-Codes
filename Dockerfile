@@ -10,4 +10,6 @@ USER 1001
 
 RUN rasa train nlu
 
+RUN rasa run
+
 ENTRYPOINT ["/app/server.sh"]
