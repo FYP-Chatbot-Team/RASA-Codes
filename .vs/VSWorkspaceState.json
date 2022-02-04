@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\app\\data"
   ],
-  "SelectedNode": "\\app.json",
+  "SelectedNode": "\\Dockerfile",
   "PreviewInSolutionExplorer": false
 }
