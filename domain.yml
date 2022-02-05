@@ -23,7 +23,16 @@ intents:
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
+  - image: "https://thumbs.dreamstime.com/b/cute-white-robot-character-say-hi-eps-182561098.jpg"
+  - text: "Hi! I am a Virtual Assistant. I can help you with frequently asked questions about NEA. I can help you with the following option 😊 . "
+  - text: "Please type your responses below 👇🏻: "
+  - text: " --> Fine Payment "
+  - text: " --> Illegal Dumping  "
+  - text: " --> Process for LOR(Letter of Reminder)  "
+  - text: " --> Process for LOA(Letter of Advice)   "
+  - text: " --> Work Instructions for SFA  "
+
+
 
   utter_How_To_Pay_Fine:
   - text: "AXS Stations, E-Station, M-Station"
