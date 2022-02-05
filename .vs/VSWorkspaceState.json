@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\actions",
-    "\\data",
-    "\\models",
-    "\\tests"
+    ""
   ],
-  "SelectedNode": "\\Dockerfile",
+  "SelectedNode": "\\start_services.sh",
   "PreviewInSolutionExplorer": false
 }
