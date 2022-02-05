@@ -1,18 +1,13 @@
-# This files contains your custom actions which can be used to run
-# custom Python code.
-#
-# See this guide on how to implement these action:
-# https://rasa.com/docs/rasa/custom-actions
+from rasa_sdk.executor import CollectingDispatcher
 
+import firebase_admin
+from firebase_admin import db
 
-# This is a simple example for a custom action which utters "Hello World!"
+#Connect to firebase database
+cred_obj = firebase_admin.credentials.Certificate('nea-database-b96f8-firebase-adminsdk-mo1sn-a344a5de3b.json')
+default_app = firebase_admin.initialize_app(cred_obj, {
+'databaseURL':'https://nea-database-b96f8-default-rtdb.asia-southeast1.firebasedatabase.app/'})
 
-# from typing import Any, Text, Dict, List
-#
-# from rasa_sdk import Action, Tracker
-# from rasa_sdk.executor import CollectingDispatcher
-#
-#
 # class ActionHelloWorld(Action):
 #
 #     def name(self) -> Text:

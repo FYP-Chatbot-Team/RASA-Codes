@@ -23,43 +23,95 @@ intents:
 
 responses:
   utter_greet:
-  - image: "https://thumbs.dreamstime.com/b/cute-white-robot-character-say-hi-eps-182561098.jpg"
-  - text: "Hi! I am a Virtual Assistant. I can help you with frequently asked questions about NEA. I can help you with the following option 😊 . "
-  - text: "Please type your responses below 👇🏻: "
-  - text: " --> Fine Payment "
-  - text: " --> Illegal Dumping  "
-  - text: " --> Process for LOR(Letter of Reminder)  "
-  - text: " --> Process for LOA(Letter of Advice)   "
-  - text: " --> Work Instructions for SFA  "
-
-
+  - text:  "Hi! I am a Virtual Assistant. I can help you with frequently asked questions about NEA. I can help you with the following option 😊 .
+            \nPlease type your responses below 👇🏻:
+            \n--> Fine Payment
+           \n--> Illegal Dumping
+           \n--> Process for LOR(Letter of Reminder)
+           \n--> Process for LOA(Letter of Advice)
+           \n--> Work Instructions for SFA " 
 
   utter_How_To_Pay_Fine:
-  - text: "AXS Stations, E-Station, M-Station"
+  - text: " 1. AXS Stations, E-Station, M-Station
+            \n2. All Post Officers (over the counter)
+            \n3.  SAM Kiosks, Mobile App, Web 
+            \n4. CSC Counter (Last Resort) "
 
   utter_How To_Appeal:
   - text: "When we receive calls from MOP requesting for an appeal form, CC will inform MOP to download the form from our NEA website. MOP will have to complete the form and send it in to us via O.F.F or post. All appeals will take 14 working days to process. "
 
   utter_Missed_Court_Date:
-  - text: "Compoundable 26N:  Scenario 1: If the offender called in after the cut off payment. Advise offender to attend court at 6pm. Scenario 2: Offender missed to attend court. Advise offender to walk in to Crime Registry in State Courts to enquire. Scenario 3: Offender forgot to attend court but intended on attending court. Advise offender to walk in to Crime Registry in State Courts to enquire. Compoundable C14 and Other Courts:  Scenario 1: If the offender called in after the cut off payment. Advise offender to attend court at 9:30am. Scenario 2: Offender missed to attend court. Advise offender that Warrant of Arrest will be issued anytime "
+  - text: "Compoundable 26N:  
+           \nScenario 1: 
+           \nIf the offender called in after the cut off payment.
+           \nAdvise offender to attend court at 6pm. 
+           \nScenario 2: Offender missed to attend court. 
+           \nAdvise offender to walk in to Crime Registry in State Courts to enquire. 
+           \nScenario 3: 
+           \nOffender forgot to attend court but intended on attending court. 
+           \nAdvise offender to walk in to Crime Registry in State Courts to enquire. 
+           \nCompoundable C14 and Other Courts:  
+           \nScenario 1: 
+           \nIf the offender called in after the cut off payment. 
+           \nAdvise offender to attend court at 9:30am. 
+           \nScenario 2: Offender missed to attend court. 
+           \nAdvise offender that Warrant of Arrest will be issued anytime "
 
   utter_Info_for_illegal_dumping:
-  - text: "Date and time of occurrence/ sighting. Feedback giver’s particulars (name, contact details). Location of incident (address, nearest landmark) Type of waste (wood waste, renovation waste, construction debris etc). Estimated amount of waste (how many 660L bulk bins?). Vehicle number and description of vehicles involved in the dumping. Did the feedback giver witness the dumping in action? Is the dumping still in progress at the time of feedback?" 
+  - text: "1. Date and time of occurrence/ sighting. 
+           \n2. Feedback giver’s particulars (name, contact details). 
+           \n3. Location of incident (address, nearest landmark) 
+           \n4. Type of waste (wood waste, renovation waste, construction debris etc). 
+           \n5. Estimated amount of waste (how many 660L bulk bins?). 
+           \n6. Vehicle number and description of vehicles involved in the dumping. 
+           \n7. Did the feedback giver witness the dumping in action? 
+           \n8. Is the dumping still in progress at the time of feedback?" 
 
   utter_Court_Attendance_Status:
-  - text: "Compoundable 26N: No need to attend court. Compoundable C14 and Other Courts: If Warrant of Arrest has not been issued, court attendance is not required. If Warrant of Arrest has been issued, CCO to check with LD if Court attendance is required.  "
+  - text: "Compoundable 26N: 
+           \nNo need to attend court. 
+           \nCompoundable C14 and Other Courts: 
+           \nIf Warrant of Arrest has not been issued, court attendance is not required.
+           \nIf Warrant of Arrest has been issued, CCO to check with LD if Court attendance is required.  " 
 
   utter_Illegal_dumping_vs_bulky_waste:
-  - text: "Illegal Dumping: Loose waste disposed from vehicle where volume more than 2 x 660L bulk bins or ½ lorry load. Usually dumped at remote areas or outskirts of city/island. Requires vehicle to transport waste to dump site. Bulky Waste: Large items normally found in homes/trade premises e.g. furniture, electrical appliances, fixtures etc. Usually placed along pavement/side table of residential areas or trade premises. Item retaining most of assembled/end-product appearance "
+  - text: "Illegal Dumping: 
+           \n1. Loose waste disposed from vehicle where volume more than 2 x 660L bulk bins or ½ lorry load. 
+           \n2. Usually dumped at remote areas or outskirts of city/island. 
+           \n3. Requires vehicle to transport waste to dump site. 
+           \nBulky Waste: 
+           \n1. Large items normally found in homes/trade premises e.g. furniture, electrical appliances, fixtures etc. 
+           \n2. Usually placed along pavement/side table of residential areas or trade premises. 
+           \n3. Item retaining most of assembled/end-product appearance "
 
   utter_Team_in_charge_of_bulky_waste:
   - text: "EPHO-RO-Sanitation <XXX> Team "
 
   utter_Team_in_charge_of_illegal_dumping:
-  - text: "WRMD"
+  - text: ""
+    image: "https://lh3.googleusercontent.com/qOBvulqVHFMt1bW7KqR2O_ld9Q2bmAtTsoRtHbumcQo5DLrItgUx1WWTY0TB00UJeI0XfFgSIw5ey7s7MAsS8Zp5mY4nBQQBpgmwr7zbYroqvpz-xci7hWwM4jFcEV5glmaqDDLWq6vnqE28CATtgFnlo5XhbOH9Gym46pQk4aYYO18Up6nAksfIC3AV2wuIruFnxZ2MN9i9Pst3H9l_xidsg3ceWRPBQbZFRZWpANE2gLi0kUcaFBHPBAWo96tgG2M8wc1w7KE7kzUXdhstAaQf1X1elnHQdkCkjIQ-dSf5lpRFknGOkdAu6M-Jg0NwO4NzpWCO8X9eV4BjrtqpGs_Tvd-nCoQnOCUGq1LyEC8zYrS2NdXOFlNf9oZ1tDUhHDFq7yaQ8h57imIAVYGXw4hyD5qCXUfxmrbrv1imOD9XB-qzR_OWPmAom79I5LKYyN_BNqPiWs7nUJ9QoK2BikJwHtKdGAFNmJvJlv_MN8QmWH29F54a4bJkTVWZvjGVfmeZS5PVRdq-iH0h2sSLYVn68wd_S4zKB0kqofqFN-mHzgkp0xfwfRicAXWImRLRVzpcQ19fQfKkN1EHOECP5k9XAoh_w8RYYivvxwa7fWd_wTa-NqyaMDUZfdYXtASrj_4_0VdFwYOLYLzBhM7d2reHMLV2OOLm_CfL1FvhtgMuoTVTtyj-Wa_8wo3fYsCtUmKJcvOU_SYL42FP1yyFdw=w1355-h559-no?authuser=2"
+
+  utter_Team_in_charge_of_illegal_dumping2:
+  - text: ""
+    image: "https://lh3.googleusercontent.com/Yg9Zff30UwtvrKyJETEC5O_9f0XFY-tW0_xTmrzY4QP1iIR9FzMKF6x3Yw3V7hS3gjnDz7qmrIwfKdcT73bA6kE2dQEifCC4pyHTLq_PGtIH0JhY7M8ed-MnQaC8swkqlQsZTlWUaFxr-42546QuRGsjPdLnEt77xBCwKRqNpjJ6AE7CEj8MVCRusnT7vLGInsDISglSkuneCQF0V0oY-JaXXBs2Rcr00gogU8HgKRMQsAfbwxbCQw1EdjF5_o5S-nKQudj5nP4dKnIAROgmzYJVxNfvB3Iny5C7HceF1aPIV_W9OEzEphkt7er6jhEh89uL9kgKpcADozOiY1XwZ5Ki7D8fNf2Zxv_3orTaFGDH63qTzWbLV0n14klY2gKCZioKXyspasfJ4vQAkOD30CFQzBltoOJtagZMWu-_oyyMH_koYiQvKjiaGhSRcG9CmcEw3jC3sUB10qbhN3aWdwTVsnTZ_7Xl3zJwCHo3oFu9aayxFfm78tk9QeuVto6rE1olHWupZAHxKzVX5vuSVyAp1K_XLZh5ivRWWScI8kQCbeZu7OV9WrYtax7IRn7HqrU01gKGq_YgV5WTuJZjp_Gp587mQrRDW3TcxqgDZDryOk83szIu5HmxdWabu5HX3cTnHUGi0PUbM_LV13d6Bj8yC6xmkxVfv6mnSNabAUMY1H96FRFjNn_hzBm1fPWhVsZzwqAFDK4zJorUvEg6qg=w804-h705-no?authuser=2"
+
+  utter_Team_in_charge_of_illegal_dumping3:
+  - text: ""
+    image: "https://lh3.googleusercontent.com/GjrgrFwqnX_kYObyohrYNRrS260N__bvCL-aiXl2onjY93QkCV1NF81e9djsldkPmQsepMPxpGLvWA2lNkpD8fAGFAdkf9TThc-S0jTr9HqLDLqPUtFx3g-YMTqeQFZOqLVoqQCu6IuHErFcfmBh6-ZHoe3jU9ebkNspxY1j03ZuBR0-ATy5KB1KsJdaaILmS8YF5zm5CdGZhCaVmniXxxQzoiQ6Pejf8BJRVHC8HjYlzB_5Ls9p-73AU3ZkaQBpvAe8KHvz3COJIVpyulndQjTNDhBYZhMJrL5upjlphv6jmKZpXKSkrtp49D7cjIMvO5uDN3wnG-IWjU8aFbl6xeYyyFNvfBNs2Z-WC-iuwRyvL3d-P8NGddMAIyG9iAQjdVWj3N6NIRMl5Z2avFBoyriQFCt77Oz8Gj_cNsWCVx6w2Gj8RsJNE5EEkd4Qb79UtECHz275JpnyW19wb9LrEolmvPDVW1Mv9jtBXkX8zPIs5ytGdmBCfNlsCUpyHhXkyhDgnYFc__CBrkqMaePUHsYrq_wLAtR4S3lLv1C8kRh8tEJcUYyaecuqACTTMJlTmmrU9RLs3LJOg50unOREnJBLYH5oFvG2fnwwHTp-AvSIoQTNkOw_IVJs-EGrJQV0ZAZQ1hJxE12IaUkhQNMMIwsRhmbHqzg-7OS-_jAUQtOAs1bxAz0ThzbWBpGhxj1gdXkM3_dL4SYHdSHWqgZcHQ=w578-h661-no?authuser=2"
+
+  utter_Team_in_charge_of_illegal_dumping4:
+  - text: ""
+    image: "https://lh3.googleusercontent.com/iGalxl29qlFJXs90N3oGheSP-ixPav0XTJTg3bhtrCJ0FEG13xAx5ffVh-EmAGfBorAYrjK2tTjBw2l860WAShJ2bA_d1hbc14-TqBceMuMbB2g6tAwmbpc-KeUpjDYka2B_KoeGGQgkBqNrKFO2sUjrXT9-ivWD-MjLsTCOrQ_XmMA8Jp4rHHm8jRakfZoKS4ml7XlPV7xWmDzGvkLFgJHqXufJ4ahMstiEeaWNu0xCs8FK0JVBwIuhRrRl1LbVGm6l9ZYBgIj4SU5gkPafnp83uza4DbaSaB_JL5auw5vUqXNkWgrK_69ODESi2xv-SHHPzfiFGHshXKXi1wH_uawfgOGyAxFlep08o3iEjYgP7jzy68GfABBU37iM2go0FKbR7Fr7h5HJCcJcPaJx3yYw6Oh3V5EgdBFAvrLzDpMBQ70qJZDaAYua-cP3zi71KxwdhDUe_daRojzvsOH7TCyoMOH4Jq9MpPtqoHnVnO7w3ocbwYZwwLlQFs11hf6TNBp4t5Il_nZXBZVrF1KjixNPBNHwPzzK4QyWaixEg82UZ89e11SHc3GpZvm6RA-LABuFafe56r-SgtkqzmXywSbZAlm5kKmOi_PvK16cRVpEo3vjic935q60k01VcWfznvQNktrtIDZPJv45LIdtJ9_TEF84xRRYptPU-8xmpo6mvy5Qv26X9RtT7t1T2nKAMOXG13pZXWoWTBJAuVPoig=w575-h478-no?authuser=2"
+  
+  utter_Team_in_charge_of_illegal_dumping5:
+  - text: ""
+    image: "https://lh3.googleusercontent.com/VIyW6JIAxYtC4NeY4aulXD316bqA9B5UmGzAuwyHE3mwHZXj1EeTlnzOeKSJ19B3NfZ42Kb9vSoBpUdBUtD7rmU99i0xHRlE5-TqMHwllYQxKteJjTO3nEw54zXW94BeKpLyjXmXp4dFAcrMIvjiN8ZznnoZrmrnPdIG68xXABBm3XMdSBFfHTJF2sg81_ZGE_BAmftcYlBwIB4-dmwKmcIX_nkF-rQXznd3IiSv2XLk28Anr6adLAjMewNPyfr46GV1rk4Za-M2rVCI8mMRx536g21MRhBBDjwyICjYSUWKDkyweDuWYSL62FPzcyjmbyLUapHtREH1VjDhJtvycC-vXXHXv1Sfi4jYVQRWNUhHV7fyVgeYs33Rt50Qq8C3ti8GDJyPcUIcpVDIvWv4X1Nnn08bvoJ2h5wuiTI75HoRRdsXRZJY7aXSWxkXE-5Y03fDm9Q4sU3z5xgAd49eJr9Sah-6-DbNEPLVA9YLASNQRYErsm9Zh_jbQYgDnIgLTSo9DOKmPUA77F3g8XrLMSqQLP2h4LV0Bj2MJvvqmqjZsZP5DBliWQVHzQrQS5iKoHMokFQQqSWnveaK_uNxr6k2JUKS0njLVpNwXGrt-t2u4F5OwT87zW9plzKrVZWvji78YXeMh9h1_xTB4J5yiuswXlR6cEeGN-16TIFl1fxlHjo4G9xxXetpNKMhFyL3WPvNKzIc67udoYUbWz3J1g=w581-h356-no?authuser=2"
 
   utter_Characteristics_of_illegal_dumping:
-  - text: "Illegal dumping occurs when large scale of waste is dumped from (presumably) a vehicle at a public place, where, A public place is where the members of public have free access to the place. A construction site is not considered a public place. Illegal dumping does not normally occur in urbanised areas/residential areas/populated areas/high traffic areas/immediate vicinities of trade, factory and industrial premises. Large scale equate to volume of more than 2 x 660L bulk bins. "
+  - text: "Illegal dumping occurs when large scale of waste is dumped from (presumably) a vehicle at a public place, where, 
+          \n1. A public place is where the members of public have free access to the place. A construction site is not considered a public place. 
+          \n2. Illegal dumping does not normally occur in urbanised areas/residential areas/populated areas/high traffic areas/immediate vicinities of trade, factory and industrial premises. 
+          \n3. Large scale equate to volume of more than 2 x 660L bulk bins. "
 
   utter_Advise_for_compoundable_26N_LOR:
   - text: "Advise the customer to make fine payment. Failure to make fine payment may result to issuance of Warrant of Arrest  "
@@ -68,7 +120,9 @@ responses:
   - text: "Court attendance will not be required  "
 
   utter_what_to_do_for_non-compoundable_26N_LOA:
-  - text: "Advise the following to the offender: Pay the compoundable amount ONLY at CSC Counter and no need to execute Warrant of Arrest. To keep the receipt as the case may take 2-3 months to close "
+  - text: "Advise the following to the offender: 
+           \nPay the compoundable amount ONLY at CSC Counter and no need to execute Warrant of Arrest. 
+           \nTo keep the receipt as the case may take 2-3 months to close "
 
   utter_What_to_bring_for_WOA_execution:
   - text: "1 person (Singapore Citizen/Permanent Resident) above 21 years old to stand as a bailor pending court trail "
@@ -77,15 +131,22 @@ responses:
   - text: "CC to log and route the case via OneService (please check the reminder above) "
 
   utter_How_to_stop_SFA_rejecting_my_cases:
-  - text: "In Case Description, CC to ensure the following keywords are used to prevent case rejection from SFA: Food hygiene, Food preparation, Food safety management. (E.g. Feedback on birds inside the food stall which caused food hygiene issue) "
+  - text: "In Case Description, CC to ensure the following keywords are used to prevent case rejection from SFA: 
+           \nFood hygiene 
+           \nFood preparation 
+           \nFood safety management 
+           \n(E.g. Feedback on birds inside the food stall which caused food hygiene issue) "
 
   utter_SFA_in_charge_of:
-  - text: "Food Hygiene, Food Safety, Food Preparation, Illegal Hawking, Food Shop/Food Stall Licenses,Any other food related issues "
-
-
+  - text: "1. Food Hygiene 
+           \n2. Food Safety 
+           \n3. Food Preparation 
+           \n4. Illegal Hawking 
+           \n5. Food Shop/Food Stall Licenses 
+           \n6. Any other food related issues "
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "Thank you for using our chatbot"
 
 
 
