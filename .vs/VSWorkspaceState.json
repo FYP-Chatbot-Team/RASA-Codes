@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\actions"
   ],
-  "SelectedNode": "\\start_services.sh",
+  "SelectedNode": "\\models",
   "PreviewInSolutionExplorer": false
 }

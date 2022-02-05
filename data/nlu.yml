@@ -199,10 +199,10 @@ nlu:
     - Define Illegal dumping 
     - Illegal dumping is what ah? 
     - Can you explain to me about illegal dumping? 
-    - Illegal Dumping?  
+    - Characteristic of Illegal Dumping?  
     - What causes illegal dumping? 
     - What makes it illegal dumping? 
-    - Illegal dumping is? 
+    - What Illegal dumping is? 
     - Hallmarks of illegal dumping?  
     - What are the hallmarks of illegal dumping? 
     - How do I know that it is illegal dumping? 
@@ -383,3 +383,33 @@ nlu:
     - Greetings
     - Sup
 
+- intent: fine_payment
+  examples: |
+    - fine payment
+
+
+- intent: illegal_dumping
+  examples: |
+    - illegal dumping
+
+- intent: LOR
+  examples: |
+    - Process for LOR(Letter of Reminder)
+    - LOR
+
+- intent: LOA
+  examples: |
+    - Process for LOA(Letter of Advice) 
+    - LOA
+
+- intent: Work
+  examples: |
+    - Work Instructions for SFA
+
+- intent: enquries_yes
+  examples: |
+    - yes
+
+- intent: enquries_no
+  examples: |
+    - no

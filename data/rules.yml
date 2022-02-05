@@ -2,16 +2,34 @@ version: "2.0"
 
 rules:
 
-- rule: Say goodbye anytime the user says goodbye
-  steps:
-  - intent: goodbye
-  - action: utter_goodbye
   
 - rule: Say Hello each time the user greets
   steps:
   - intent: greet
   - action: utter_greet
   
-
+- rule: fine payment
+  steps:
+  - intent: fine_payment
+  - action: utter_fine_payment
   
+- rule: illegal dumping
+  steps:
+  - intent: illegal_dumping
+  - action: utter_illegal_dumping
 
+- rule: LOR
+  steps:
+  - intent: LOR
+  - action: utter_LOR
+
+- rule: LOA
+  steps:
+  - intent: LOA
+  - action: utter_LOA
+
+- rule: work
+  steps:
+  - intent: Work
+  - action: utter_Work
+   

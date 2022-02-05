@@ -2,7 +2,6 @@ version: "2.0"
 
 intents:
   - greet
-  - goodbye
   - How_To_Pay_Fine
   - How_To_Appeal
   - Missed_Court_Date
@@ -19,6 +18,13 @@ intents:
   - Non-urgent_SFA_cases
   - How_to_stop_SFA_rejecting_my_cases
   - SFA_in_charge_of
+  - fine_payment
+  - illegal_dumping
+  - LOR
+  - LOA
+  - Work
+  - enquries_yes
+  - enquries_no
   
 
 responses:
@@ -147,6 +153,50 @@ responses:
 
   utter_goodbye:
   - text: "Thank you for using our chatbot"
+
+  utter_enquries:
+  - text: "Do you have any more enquiries ? 
+           \nPlease type yes or no."
+  
+
+  utter_enquries_yes:
+  - text: "Please type your responses below 👇🏻:
+           \n--> Fine Payment
+           \n--> Illegal Dumping
+           \n--> Process for LOR(Letter of Reminder)
+           \n--> Process for LOA(Letter of Advice)
+           \n--> Work Instructions for SFA " 
+
+  utter_fine_payment:
+  - text: "What do you want to know about fine payment ? Type of the option below:
+           \n--> How to Pay fine ?
+           \n--> How to appeal ?
+           \n--> Miss your court date ?
+           \n--> Court attendance required after fine payment ?"
+         
+  utter_illegal_dumping:
+  - text: "What do you want to know about illegal dumping ? Type of the option below:
+           \n--> Provide info for illegal dumping ?
+           \n--> Illegal dumping vs bulky waste ?
+           \n--> Which team is in charge of bulky waste ?
+           \n--> Which team is in charge of illegal dumping ?
+           \n--> Characteristic of illegal dumping ?"
+
+  utter_LOR:
+  - text: "What do you want to know about Letter of reminder ? Type of the option below:
+           \n--> Advice for a compoundable fine for Court 26N ?
+           \n--> Need go to court for settled C14 fine ?"
+
+  utter_LOA:
+  - text: "What do you want to know about Letter of advice ? Type of the option below:
+           \n--> What to do for non-compoundable 26N LOA ?
+           \n--> What to bring for WOA execution ?"
+
+  utter_Work:
+  - text: "What do you want to know about Work Instruction for SFA ? Type of the option below:
+           \n--> How to handle non-urgent SFA cases?
+           \n--> How to stop SFA from rejecting my cases ?
+           \n--> What does SFA handle?"
 
 
 

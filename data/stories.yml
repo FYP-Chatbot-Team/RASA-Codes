@@ -2,49 +2,64 @@ version: "2.0"
 
 stories:
   
-- story: Fine path 1
+- story: Fine path 1 Yes
   steps:
   - intent: How_To_Pay_Fine
   - action: utter_How_To_Pay_Fine
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
+
   
-- story: Fine path 2
+- story: Fine path 2 Yes
   steps:
   - intent: How_To_Appeal
   - action: utter_How To_Appeal
-  - action: utter_goodbye
-  
-- story: Fine path 3
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
+
+- story: Fine path 3 Yes
   steps:
   - intent: Missed_Court_Date
   - action: utter_Missed_Court_Date
-  - action: utter_goodbye
-  
-- story: Fine path 4
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
+
+- story: Fine path 4 Yes
   steps:
   - intent: Court_Attendance_Status
   - action: utter_Court_Attendance_Status
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: Illegal Dumping path 1
+- story: Illegal Dumping path 1 Yes
   steps:
   - intent: Info_for_illegal_dumping
   - action: utter_Info_for_illegal_dumping
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: Illegal Dumping path 2
+- story: Illegal Dumping path 2 Yes
   steps:
   - intent: Illegal_dumping_vs_bulky_waste
   - action: utter_Illegal_dumping_vs_bulky_waste
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: Illegal Dumping path 3
+- story: Illegal Dumping path 3 Yes
   steps:
   - intent: Team_in_charge_of_bulky_waste
   - action: utter_Team_in_charge_of_bulky_waste
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: Illegal Dumping path 4
+- story: Illegal Dumping path 4 Yes
   steps:
   - intent: Team_in_charge_of_illegal_dumping
   - action: utter_Team_in_charge_of_illegal_dumping
@@ -52,58 +67,249 @@ stories:
   - action: utter_Team_in_charge_of_illegal_dumping3
   - action: utter_Team_in_charge_of_illegal_dumping4
   - action: utter_Team_in_charge_of_illegal_dumping5
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: Illegal Dumping path 5
+- story: Illegal Dumping path 5 Yes
   steps:
   - intent: Characteristics_of_illegal_dumping
   - action: utter_Characteristics_of_illegal_dumping
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: LOR path 1 
+- story: LOR path 1 Yes
   steps:
   - intent: Advise_for_compoundable_26N_LOR
   - action: utter_Advise_for_compoundable_26N_LOR
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: LOR path 2
+- story: LOR path 2 Yes
   steps:
   - intent: need_go_court_for_setlled_C14_fine
   - action: utter_need_go_court_for_setlled_C14_fine
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: LOA path 1
+- story: LOA path 1 Yes
   steps:
   - intent: what_to_do_for_non-compoundable_26N_LOA
   - action: utter_what_to_do_for_non-compoundable_26N_LOA
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: LOA path 2
+- story: LOA path 2 Yes
   steps:
   - intent: What_to_bring_for_WOA_execution
   - action: utter_What_to_bring_for_WOA_execution
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: SFA path 1
+- story: SFA path 1 Yes
   steps:
   - intent: Non-urgent_SFA_cases
   - action: utter_Non-urgent_SFA_cases
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: SFA path 2
+- story: SFA path 2 Yes
   steps:
   - intent: How_to_stop_SFA_rejecting_my_cases
   - action: utter_How_to_stop_SFA_rejecting_my_cases
-  - action: utter_goodbye
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
 
-- story: SFA path 3
+- story: SFA path 3 Yes
   steps:
   - intent: SFA_in_charge_of
   - action: utter_SFA_in_charge_of
-  - action: utter_goodbye
-  
-      
+  - action: utter_enquries
+  - intent: enquries_yes
+  - action: utter_enquries_yes
    
+  
+- story: Fine path 1 No
+  steps:
+  - intent: How_To_Pay_Fine
+  - action: utter_How_To_Pay_Fine
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+  
+- story: Fine path 2 No
+  steps:
+  - intent: How_To_Appeal
+  - action: utter_How To_Appeal
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: Fine path 3 No
+  steps:
+  - intent: Missed_Court_Date
+  - action: utter_Missed_Court_Date
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: Fine path 4 No
+  steps:
+  - intent: Court_Attendance_Status
+  - action: utter_Court_Attendance_Status
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: Illegal Dumping path 1 No
+  steps:
+  - intent: Info_for_illegal_dumping
+  - action: utter_Info_for_illegal_dumping
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: Illegal Dumping path 2 No
+  steps:
+  - intent: Illegal_dumping_vs_bulky_waste
+  - action: utter_Illegal_dumping_vs_bulky_waste
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: Illegal Dumping path 3 No
+  steps:
+  - intent: Team_in_charge_of_bulky_waste
+  - action: utter_Team_in_charge_of_bulky_waste
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: Illegal Dumping path 4 No
+  steps:
+  - intent: Team_in_charge_of_illegal_dumping
+  - action: utter_Team_in_charge_of_illegal_dumping
+  - action: utter_Team_in_charge_of_illegal_dumping2
+  - action: utter_Team_in_charge_of_illegal_dumping3
+  - action: utter_Team_in_charge_of_illegal_dumping4
+  - action: utter_Team_in_charge_of_illegal_dumping5
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: Illegal Dumping path 5 No
+  steps:
+  - intent: Characteristics_of_illegal_dumping
+  - action: utter_Characteristics_of_illegal_dumping
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: LOR path 1 No
+  steps:
+  - intent: Advise_for_compoundable_26N_LOR
+  - action: utter_Advise_for_compoundable_26N_LOR
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: LOR path 2 No
+  steps:
+  - intent: need_go_court_for_setlled_C14_fine
+  - action: utter_need_go_court_for_setlled_C14_fine
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: LOA path 1 Yes
+  steps:
+  - intent: what_to_do_for_non-compoundable_26N_LOA
+  - action: utter_what_to_do_for_non-compoundable_26N_LOA
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: LOA path 2 No
+  steps:
+  - intent: What_to_bring_for_WOA_execution
+  - action: utter_What_to_bring_for_WOA_execution
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: SFA path 1 No
+  steps:
+  - intent: Non-urgent_SFA_cases
+  - action: utter_Non-urgent_SFA_cases
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: SFA path 2 No
+  steps:
+  - intent: How_to_stop_SFA_rejecting_my_cases
+  - action: utter_How_to_stop_SFA_rejecting_my_cases
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: SFA path 3 No
+  steps:
+  - intent: SFA_in_charge_of
+  - action: utter_SFA_in_charge_of
+  - action: utter_enquries
+  - intent: enquries_no
+  - action: utter_goodbye
+
+- story: greeting
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+
+- story: fine payment
+  steps:
+  - intent: fine_payment
+  - action: utter_fine_payment
+  
+- story: illegal dumping
+  steps:
+  - intent: illegal_dumping
+  - action: utter_illegal_dumping
+
+- story: LOR
+  steps:
+  - intent: LOR
+  - action: utter_LOR
+
+- story: LOA
+  steps:
+  - intent: LOA
+  - action: utter_LOA
+
+- story: work
+  steps:
+  - intent: Work
+  - action: utter_Work
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
