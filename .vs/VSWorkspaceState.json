@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\actions"
+    "\\data"
   ],
-  "SelectedNode": "\\models",
+  "SelectedNode": "\\domain.yml",
   "PreviewInSolutionExplorer": false
 }
