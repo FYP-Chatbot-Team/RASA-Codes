@@ -38,10 +38,10 @@ responses:
            \n--> Work Instructions for SFA " 
 
   utter_How_To_Pay_Fine:
-  - text: " 1. AXS Stations, E-Station, M-Station
-            \n2. All Post Officers (over the counter)
-            \n3.  SAM Kiosks, Mobile App, Web 
-            \n4. CSC Counter (Last Resort) "
+  - text: "--> AXS Stations, E-Station, M-Station
+            \n--> All Post Officers (over the counter)
+            \n-->  SAM Kiosks, Mobile App, Web 
+            \n--> CSC Counter (Last Resort) "
 
   utter_How To_Appeal:
   - text: "When we receive calls from MOP requesting for an appeal form, CC will inform MOP to download the form from our NEA website. MOP will have to complete the form and send it in to us via O.F.F or post. All appeals will take 14 working days to process. "
@@ -64,14 +64,14 @@ responses:
            \nAdvise offender that Warrant of Arrest will be issued anytime "
 
   utter_Info_for_illegal_dumping:
-  - text: "1. Date and time of occurrence/ sighting. 
-           \n2. Feedback giver’s particulars (name, contact details). 
-           \n3. Location of incident (address, nearest landmark) 
-           \n4. Type of waste (wood waste, renovation waste, construction debris etc). 
-           \n5. Estimated amount of waste (how many 660L bulk bins?). 
-           \n6. Vehicle number and description of vehicles involved in the dumping. 
-           \n7. Did the feedback giver witness the dumping in action? 
-           \n8. Is the dumping still in progress at the time of feedback?" 
+  - text: "--> Date and time of occurrence/ sighting. 
+           \n--> Feedback giver’s particulars (name, contact details). 
+           \n--> Location of incident (address, nearest landmark) 
+           \n--> Type of waste (wood waste, renovation waste, construction debris etc). 
+           \n--> Estimated amount of waste (how many 660L bulk bins?). 
+           \n--> Vehicle number and description of vehicles involved in the dumping. 
+           \n--> Did the feedback giver witness the dumping in action? 
+           \n--> Is the dumping still in progress at the time of feedback?" 
 
   utter_Court_Attendance_Status:
   - text: "Compoundable 26N: 
@@ -82,13 +82,13 @@ responses:
 
   utter_Illegal_dumping_vs_bulky_waste:
   - text: "Illegal Dumping: 
-           \n1. Loose waste disposed from vehicle where volume more than 2 x 660L bulk bins or ½ lorry load. 
-           \n2. Usually dumped at remote areas or outskirts of city/island. 
-           \n3. Requires vehicle to transport waste to dump site. 
+           \n--> Loose waste disposed from vehicle where volume more than 2 x 660L bulk bins or ½ lorry load. 
+           \n--> Usually dumped at remote areas or outskirts of city/island. 
+           \n--> Requires vehicle to transport waste to dump site. 
            \nBulky Waste: 
-           \n1. Large items normally found in homes/trade premises e.g. furniture, electrical appliances, fixtures etc. 
-           \n2. Usually placed along pavement/side table of residential areas or trade premises. 
-           \n3. Item retaining most of assembled/end-product appearance "
+           \n--> Large items normally found in homes/trade premises e.g. furniture, electrical appliances, fixtures etc. 
+           \n--> Usually placed along pavement/side table of residential areas or trade premises. 
+           \n--> Item retaining most of assembled/end-product appearance "
 
   utter_Team_in_charge_of_bulky_waste:
   - text: "EPHO-RO-Sanitation <XXX> Team "
@@ -115,9 +115,9 @@ responses:
 
   utter_Characteristics_of_illegal_dumping:
   - text: "Illegal dumping occurs when large scale of waste is dumped from (presumably) a vehicle at a public place, where, 
-          \n1. A public place is where the members of public have free access to the place. A construction site is not considered a public place. 
-          \n2. Illegal dumping does not normally occur in urbanised areas/residential areas/populated areas/high traffic areas/immediate vicinities of trade, factory and industrial premises. 
-          \n3. Large scale equate to volume of more than 2 x 660L bulk bins. "
+          \n--> A public place is where the members of public have free access to the place. A construction site is not considered a public place. 
+          \n--> Illegal dumping does not normally occur in urbanised areas/residential areas/populated areas/high traffic areas/immediate vicinities of trade, factory and industrial premises. 
+          \n--> Large scale equate to volume of more than 2 x 660L bulk bins. "
 
   utter_Advise_for_compoundable_26N_LOR:
   - text: "Advise the customer to make fine payment. Failure to make fine payment may result to issuance of Warrant of Arrest  "
@@ -144,12 +144,12 @@ responses:
            \n(E.g. Feedback on birds inside the food stall which caused food hygiene issue) "
 
   utter_SFA_in_charge_of:
-  - text: "1. Food Hygiene 
-           \n2. Food Safety 
-           \n3. Food Preparation 
-           \n4. Illegal Hawking 
-           \n5. Food Shop/Food Stall Licenses 
-           \n6. Any other food related issues "
+  - text: "--> Food Hygiene 
+           \n--> Food Safety 
+           \n--> Food Preparation 
+           \n--> Illegal Hawking 
+           \n--> Food Shop/Food Stall Licenses 
+           \n--> Any other food related issues "
 
   utter_goodbye:
   - text: "Thank you for using our chatbot"
